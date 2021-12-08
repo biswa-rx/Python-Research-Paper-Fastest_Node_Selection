@@ -1,0 +1,39 @@
+graph [
+  DateObtained "11/10/10"
+  GeoLocation "India"
+  GeoExtent "Country"
+  Area cover "South"
+
+  central_node [
+    id 7
+    label "n"
+    Country "India"
+    Longitude 7
+    Internal 1
+    Latitude 1
+  ]
+  node [
+    id 20
+    label "Chennai"
+    Country "India"
+    Longitude 7
+    Internal 1
+    Latitude 1
+  ]
+  node [
+    id 29
+    label "Hyderabad"
+    Country "India"
+    Longitude 78.4862
+    Internal 1
+    Latitude 17.3850
+  ]
+  node [
+    id 1
+    label "Thiruananthapuram"
+    Country "India"
+    Longitude 76.9366
+    Internal 1
+    Latitude 8.5241
+  ]
+]

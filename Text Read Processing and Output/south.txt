@@ -1,0 +1,39 @@
+graph [
+  DateObtained "11/10/10"
+  GeoLocation "India"
+  GeoExtent "Country"
+  Area cover "South"
+
+  central_node [
+    id 0
+    label "s"
+    Country "India"
+    Longitude 45
+    Internal 1
+    Latitude 45
+  ]
+  node [
+    id 20
+    label "Chai"
+    Country "India"
+    Longitude 45
+    Internal 1
+    Latitude 45
+  ]
+  node [
+    id 29
+    label "Hyrabad"
+    Country "India
+    Longitude 78.4862
+    Internal 1
+    Latitude 17.3850
+  ]
+  node [
+    id 1
+    label "Thiruananthapuram"
+    Country "India"
+    Longitude 76.9366
+    Internal 1
+    Latitude 8.5241
+  ]
+]
